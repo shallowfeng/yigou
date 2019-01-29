@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basic_parent/basic_parent.iml" filepath="$PROJECT_DIR$/basic_parent/basic_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_parent/basic_util/basic_util.iml" filepath="$PROJECT_DIR$/basic_parent/basic_util/basic_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config_service_1299/config_service_1299.iml" filepath="$PROJECT_DIR$/config_service_1299/config_service_1299.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_service_7001/eureka_service_7001.iml" filepath="$PROJECT_DIR$/eureka_service_7001/eureka_service_7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tesco_plat_parent/plat_intefase/plat_intefase.iml" filepath="$PROJECT_DIR$/tesco_plat_parent/plat_intefase/plat_intefase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tesco_plat_parent/plat_service_8001/plat_service_8001.iml" filepath="$PROJECT_DIR$/tesco_plat_parent/plat_service_8001/plat_service_8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tesco_parent_crm04.iml" filepath="$PROJECT_DIR$/tesco_parent_crm04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tesco_plat_parent/tesco_plat_parent.iml" filepath="$PROJECT_DIR$/tesco_plat_parent/tesco_plat_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul_tesco/zuul_tesco.iml" filepath="$PROJECT_DIR$/zuul_tesco/zuul_tesco.iml" />
+    </modules>
+  </component>
+</project>

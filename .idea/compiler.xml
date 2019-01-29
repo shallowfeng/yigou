@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="basic_util" />
+        <module name="config_service_1299" />
+        <module name="eureka_service_7001" />
+        <module name="plat_intefase" />
+        <module name="plat_service_8001" />
+        <module name="tesco_plat_parent_8001" />
+        <module name="zuul_tesco" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="basic_intefase" target="1.8" />
+      <module name="basic_parent" target="1.8" />
+      <module name="basic_util" target="1.8" />
+      <module name="config_service_1299" target="1.8" />
+      <module name="eureka_service_7001" target="1.8" />
+      <module name="plat_intefase" target="1.8" />
+      <module name="plat_service_8001" target="1.8" />
+      <module name="tesco_parent_crm04" target="1.8" />
+      <module name="tesco_plat_parent" target="1.8" />
+      <module name="tesco_plat_parent_8001" target="1.8" />
+      <module name="zuul_tesco" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
