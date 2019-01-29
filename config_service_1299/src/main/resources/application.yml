@@ -13,6 +13,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/hpyao/microservice-config.git
-          username: hpyao
-          password: Itsource20180731
+          uri: https://github.com/shallowfeng/yigou-config.git
+          username: shallowfeng
+          password: gxfshallow1995
